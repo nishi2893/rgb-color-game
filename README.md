@@ -1,10 +1,10 @@
 # RGB-Color-Guessing-Game
 
-This project is built using ReactJS. The application is a single page application with all the features of React 16 as well as the new features introduced in EcmaScript 6 and is mobile responsive.
+This project is built using pure Javascript, HTML5, CSS3. Its a color guessing game where the player are given 6 different types of color panel and one RGB Color Code. The player has to select one of the color panel based on the estimation of RGB Color Code.
 
-This application creates a burger with the help of the given ingredients and calculates the total cost of the burger. The user can place the order, the detials of the customer and the order is stored in firebase.
+The game consists of easy level where few colors are given in order to guess the correct color. Also, it consists of hard level where more colors are given to guess the correct color.
 
-More functionalities like creating combo meals, creating menus for the customer will be added to the project in the future as well as Redux will be added to the project. 
+This game is really fun to play. It will also increase your knowledge of RGB Color Codes which will further help in CSS Styling.
 
 ## What I used?
 
